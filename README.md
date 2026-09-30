@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer | Graphic Designer | Digital Content Creator**
 
-📍 Bayelsa State, Nigeria | 🌐 [eric.com.ng](https://eric.com.ng) | 💼 [LinkedIn](https://linkedin.com) | ✍️ [Medium](https://medium.com) | 💻 [dev.to](https://dev.to)
+📍 Bayelsa State, Nigeria | 🌐 [https://ericazibataramconsultancy.name.ng) | 💼 [LinkedIn] (https://www.linkedin.com/in/eric-azibataram-3168012b0?utm_source=share_via&utm_content=profile&utm_medium=member_android) | ✍️ [Medium](https://medium.com/@ericazibataram) | 💻 [https://dev.to/ericazibataram24coder)
 
 ---
 
@@ -28,5 +28,5 @@ I am a Microbiology graduate and versatile full-stack web developer, freelance g
 
 ## 💼 Featured Projects & Links
 
-- **Personal Portfolio & Consultancy:** [eric.com.ng](https://eric.com.ng)
-- **Technical Writing:** Articles published on [dev.to](https://dev.to) and [Medium](https://medium.com)
+- **Personal Portfolio & Consultancy:** (https://ericazibataramconsultancy.name.ng)
+- **Technical Writing:** Articles published on [https://dev.to/ericazibataram24coder] and [https://medium.com/@ericazibataram](https://www.linkedin.com/in/eric-azibataram-3168012b0?utm_source=share_via&utm_content=profile&utm_medium=member_android)
