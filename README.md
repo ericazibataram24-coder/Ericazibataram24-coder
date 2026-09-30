@@ -1,4 +1,4 @@
-oʻ# Eric Azibataram
+# Eric Azibataram
 
 **Full-Stack Web Developer | Graphic Designer | Digital Content Creator**
 
