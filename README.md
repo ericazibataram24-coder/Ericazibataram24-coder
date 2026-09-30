@@ -1,4 +1,4 @@
-# Eric Azibataram
+oʻ# Eric Azibataram
 
 **Full-Stack Web Developer | Graphic Designer | Digital Content Creator**
 
@@ -13,7 +13,7 @@ I am a Microbiology graduate and versatile full-stack web developer, freelance g
 - 🔭 **Currently working on:** Full-stack web applications using React, Node.js, and Supabase.
 - 🌱 **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), React, React Native, Node.js, Express, Vite, Supabase, Git, GitHub Codespaces, Render.
 - 🎨 **Design Tools:** PixelLab, Canva, PhotoRoom, Adobe Creative Cloud.
-- 📬 **Contact Me:** Via my website at (https://ericazibataram.name.ng) or connect with me on social media.
+- 📬 **Contact Me:** Via my website at (https://ericazibataramconsultancy.name.ng) or Email me on (ericazibataram24@gmail.com).
 
 ---
 
